@@ -1,0 +1,22 @@
+
+footer{
+	padding:25px 0;
+	background:#222222;
+	color:rgba(255,255,255,0.3);
+}
+footer p{
+	font-size:18px;
+	text-align:center;
+	margin:0;
+}
+@media (max-width:580px){
+	 .intro{
+		width:auto;
+		height:auto; 
+	 }
+	 .intro img{
+		 position:relative;
+		 width:100%;
+	 }
+	 
+ }

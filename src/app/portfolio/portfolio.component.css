@@ -1,0 +1,20 @@
+/*-------------------
+   Portfolio-area
+--------------------*/
+section.portfolio{
+	padding:100px 0;
+}
+.portfolio-container{
+	height:200px;
+	width:99%;
+    margin:50px auto 0;
+}
+
+.port{
+	padding:1%;
+}
+.port img{
+	border-radius:10px;
+	box-shadow:0 0 10px #252525;
+	width:100%;
+}

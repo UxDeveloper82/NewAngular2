@@ -1,0 +1,48 @@
+  /*--------------
+    Intro-area
+  ----------------*/		
+  .intro{
+      background:url('/assets/images/bg-3.jpg');
+      background-repeat:no-repeat;
+      background-position:center center;
+      width:100%;
+      height:100%;
+      background-size:cover;
+      -webkit-background-size:cover;
+      -moz-background-size:cover;
+      -o-background-size:cover;
+      margin:auto;
+      display:table;
+      top:0;
+      padding:40px 0;
+  }
+  .intro.inner{
+      display:table-cell;
+      vertical-align:middle;
+      width:100%;
+      max-width:none;
+  }
+  .outside-logo{
+      float:left;
+      font-size:220%;
+  }
+  .outside-logo h1{
+      line-height:1.5em;
+  }
+  span{
+      color:red;
+  }
+           
+  .content{
+      line-height:135px;
+      margin:auto;
+      max-width:600px;
+  }
+       
+  .inner{
+      max-width:600px;
+      font-size:170%;
+      padding:10px;
+      line-height:1.6;
+      margin:auto;
+  }

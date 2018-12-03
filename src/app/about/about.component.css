@@ -1,0 +1,9 @@
+.text-primary{
+    color:#FF5733;  
+}
+p.text-muted{
+	text-align:center;
+	display:block;
+	padding:3%;
+	font-size:120%;
+}
